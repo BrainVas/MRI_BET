@@ -1,7 +1,5 @@
 # MRI_BET
 
-
-### 1. Environment for Skull Stripping (HD-BET)
 I had succes with this Windows-compatible fork of HD-BET by [sh-shahrokhi](https://github.com/sh-shahrokhi/HD-BET/tree/master).
 This installs hd-bet as a callable command in powershell, given the correct venv is activated.
 
